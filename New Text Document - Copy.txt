@@ -1,0 +1,6 @@
+experiment1
+
+
+4. Create an ssh key pair locally and copy the public key to gitlab server.
+	i. open git bash and run the following command, it creates 1 pair of keys (public and private)
+		ssh-keygen
